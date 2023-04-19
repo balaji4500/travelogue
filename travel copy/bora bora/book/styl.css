@@ -1,0 +1,96 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: fixed;
+    bottom: 200px;
+    background: rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  #in{
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+
+  }
+  #btn{
+    padding: 5px;
+    width: 150px;
+    background-color: rgb(34, 137, 137);
+    border: none;
+    border-radius: 40px;
+    color: antiquewhite;
+
+  }
+
+  #btn:hover{
+    background-color:rgb(36, 183, 183) ;
+    font-weight: 600;
+    margin-left: 5px;
+    border-radius: 5px;
+    transition: 1s;
+  }
+  ::placeholder{
+    color: antiquewhite;
+    font-weight: 400;
+  }
+  h1{
+    font-weight: bolder;
+  }
+  
+  #img1{
+    margin-left: 40px;
+  }
+  
+  /* +++header+++ */
+  
+  #a1{
+  margin-left: 450px;
+  
+  font-weight:bolder ;
+  }
+  #a2{
+    margin-left: 50px;
+    font-weight:bolder;
+    }
+    #a3{
+      margin-left: 50px;
+      font-weight:bolder ;
+      }
+      #a4{
+        margin-left: 50px;
+        font-weight:bolder ;
+        }
+  
+  #a1:hover{
+  
+  color:yellowgreen;
+  }
+  #a2:hover{
+  
+    color:yellowgreen;
+    }
+    #a3:hover{
+  
+      color:yellowgreen;
+      }
+      #a4:hover{
+  
+        color:yellowgreen;
+        }

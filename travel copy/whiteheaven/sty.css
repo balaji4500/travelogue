@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans+HK:wght@700&family=Tilt+Warp&display=swap');
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.container{
+  margin-top:100px;
+  
+
+}
+
+#img1{
+  width: 300px;
+}
+#col1{
+  margin-left: 100px;
+}
+h2{
+font-weight: bold;
+font-family: 'Tilt Warp', cursive;
+}
+h6{
+  font-family: 'Noto Sans HK', sans-serif;
+
+}
+p{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#btn1{
+  background-color: rgb(24, 193, 86);
+  color: white;
+  border-radius: 50px;
+  border: none;
+  width: 100px;
+  padding: 2px;
+  font-weight: bold;
+
+}
+#btn2{
+  background-color: rgb(24, 193, 86);
+  color: white;
+  border-radius: 50px;
+  border: none;
+  width: 100px;
+  padding: 2px;
+  font-weight: bold;
+
+}
+#btn3{
+  background-color: rgb(24, 193, 86);
+  color: white;
+  border-radius: 50px;
+  border: none;
+  width: 100px;
+  padding: 2px;
+  font-weight: bold;
+}
+#btn1:hover{
+  border-radius: 5px;
+  background-color: rgb(26, 165, 77);
+  transition: 1s;
+  box-shadow: 5px 5px #888888;
+
+
+}
+#btn2:hover{
+  border-radius: 5px;
+  background-color: rgb(26, 165, 77);
+  transition: 1s;
+  box-shadow: 5px 5px #888888;
+
+  
+}
+#btn3:hover{
+  border-radius: 5px;
+  background-color: rgb(26, 165, 77);
+  transition: 1s;
+  box-shadow: 5px 5px #888888;
+  
+}
+#p1{
+  margin-left: 60px;
+font-family: 'Tilt Warp', cursive;
+font-size: 30px;
+
+}
+
+input{
+  border: none;
+  background-color: rgb(30, 161, 190);
+  color: white;
+  padding: 4px;
+  border-radius:10px;
+  font-weight: 700;
+}
+
+input:hover{
+    background-color: blueviolet;
+    border-radius: 50px;
+    transition: 1s;
+}
+
+
+
+
+

@@ -1,0 +1,99 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+ background-color: rgb(13, 80, 80);
+}
+/*=============== HEADER ===============*/
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: var(--z-fixed);
+    background-color: transparent;
+  }
+  
+  #img1{
+    margin-left: 40px;
+  }
+  
+  
+  
+  #a1{
+  margin-left: 750px;
+  
+  font-weight:bolder ;
+  }
+  #a2{
+    margin-left: 50px;
+    font-weight:bolder;
+    }
+    #a3{
+      margin-left: 50px;
+      font-weight:bolder ;
+      }
+      #a4{
+        margin-left: 50px;
+        font-weight:bolder ;
+        }
+  
+  #a1:hover{
+  
+  color:yellowgreen;
+  }
+  #a2:hover{
+  
+    color:yellowgreen;
+    }
+    #a3:hover{
+  
+      color:yellowgreen;
+      }
+      #a4:hover{
+  
+        color:yellowgreen;
+        }
+
+    
+        
+#div1{
+width: 350px;
+margin-top: 120px;
+background-color: rgb(16, 84, 84);
+padding: 50px;
+box-shadow: 10px 10px 8px 10px #084239;
+}
+
+h2{
+    color: white;
+    font-weight: bolder;
+}
+label{
+    color: white;
+}
+#btn{
+    background-color:rgb(19, 98, 98);
+    padding:5px;
+    border: none;
+    border-radius: 50px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+}
+#btn:hover{
+    background-color: rgb(246, 242, 247);
+    color: black;
+    transition: 1s;
+    border-radius: 1px;
+    
+}
+input{
+    background-color: rgb(206, 199, 199);
+    border: none;
+    border-radius: 30px;
+}
+p{
+    color: white;
+}

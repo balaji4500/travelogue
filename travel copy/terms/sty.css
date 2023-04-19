@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans+HK:wght@700&family=Tilt+Warp&display=swap');*{
+margin: 0%;
+padding: 0%;
+}
+#a1{
+    margin-left: 800px;
+}
+#a1:hover{
+color: yellowgreen;
+}
+#a2:hover{
+    color: yellowgreen;
+    }
+    #a3:hover{
+        color: yellowgreen;
+        }
+        #a4:hover{
+            color: yellowgreen;
+            }
+    
+#img1{
+    margin-left: 30px;
+}
+.text-center{
+    background-color: rgb(23, 133, 133);
+    margin-top: 50px;
+    padding: 40px;
+
+    
+}
+h1{
+font-weight: bold;
+    color: rgb(241, 239, 239);
+}
+h3{
+font-family: 'Tilt Warp', cursive;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+ol{
+    margin-top: 35px;
+}
+#main1{
+height: 800px;
+}
+#p1{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+h5{
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 10px;
+}
